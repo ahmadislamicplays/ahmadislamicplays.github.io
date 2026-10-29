@@ -1,0 +1,10 @@
+{
+  "name": "AhmadPlay Islamic",
+  "short_name": "AhmadPlay",
+  "description": "Bilingual Islamic quizzes, memory games, Arabic letters and dhikr counter.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071d19",
+  "theme_color": "#092b25",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
